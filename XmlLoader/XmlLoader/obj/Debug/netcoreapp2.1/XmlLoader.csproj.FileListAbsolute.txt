@@ -1,0 +1,55 @@
+C:\Users\user\Desktop\181005\XmlLoader\XmlLoader\bin\Debug\netcoreapp2.1\XmlLoader.deps.json
+C:\Users\user\Desktop\181005\XmlLoader\XmlLoader\bin\Debug\netcoreapp2.1\XmlLoader.runtimeconfig.json
+C:\Users\user\Desktop\181005\XmlLoader\XmlLoader\bin\Debug\netcoreapp2.1\XmlLoader.runtimeconfig.dev.json
+C:\Users\user\Desktop\181005\XmlLoader\XmlLoader\bin\Debug\netcoreapp2.1\XmlLoader.dll
+C:\Users\user\Desktop\181005\XmlLoader\XmlLoader\bin\Debug\netcoreapp2.1\XmlLoader.pdb
+C:\Users\user\Desktop\181005\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.csprojAssemblyReference.cache
+C:\Users\user\Desktop\181005\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\181005\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\181005\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.AssemblyInfo.cs
+C:\Users\user\Desktop\181005\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.dll
+C:\Users\user\Desktop\181005\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.pdb
+F:\!!課業相關\!!!!!四上 軟體工程\XmlLoader\XmlLoader\bin\Debug\netcoreapp2.1\XmlLoader.deps.json
+F:\!!課業相關\!!!!!四上 軟體工程\XmlLoader\XmlLoader\bin\Debug\netcoreapp2.1\XmlLoader.runtimeconfig.json
+F:\!!課業相關\!!!!!四上 軟體工程\XmlLoader\XmlLoader\bin\Debug\netcoreapp2.1\XmlLoader.runtimeconfig.dev.json
+F:\!!課業相關\!!!!!四上 軟體工程\XmlLoader\XmlLoader\bin\Debug\netcoreapp2.1\XmlLoader.dll
+F:\!!課業相關\!!!!!四上 軟體工程\XmlLoader\XmlLoader\bin\Debug\netcoreapp2.1\XmlLoader.pdb
+F:\!!課業相關\!!!!!四上 軟體工程\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.csprojAssemblyReference.cache
+F:\!!課業相關\!!!!!四上 軟體工程\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.csproj.CoreCompileInputs.cache
+F:\!!課業相關\!!!!!四上 軟體工程\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.AssemblyInfoInputs.cache
+F:\!!課業相關\!!!!!四上 軟體工程\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.AssemblyInfo.cs
+F:\!!課業相關\!!!!!四上 軟體工程\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.dll
+F:\!!課業相關\!!!!!四上 軟體工程\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.pdb
+F:\!!課業相關\!!!!!四上 軟體工程\!!Git\XML-analysis\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.csprojAssemblyReference.cache
+F:\!!課業相關\!!!!!四上 軟體工程\!!Git\XML-analysis\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.csproj.CoreCompileInputs.cache
+F:\!!課業相關\!!!!!四上 軟體工程\!!Git\XML-analysis\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.AssemblyInfoInputs.cache
+F:\!!課業相關\!!!!!四上 軟體工程\!!Git\XML-analysis\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.AssemblyInfo.cs
+F:\!!課業相關\!!!!!四上 軟體工程\!!Git\XML-analysis\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.dll
+F:\!!課業相關\!!!!!四上 軟體工程\!!Git\XML-analysis\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.pdb
+F:\!!課業相關\!!!!!四上 軟體工程\!!Git\XML-analysis\XmlLoader\XmlLoader\bin\Debug\netcoreapp2.1\XmlLoader.deps.json
+F:\!!課業相關\!!!!!四上 軟體工程\!!Git\XML-analysis\XmlLoader\XmlLoader\bin\Debug\netcoreapp2.1\XmlLoader.runtimeconfig.json
+F:\!!課業相關\!!!!!四上 軟體工程\!!Git\XML-analysis\XmlLoader\XmlLoader\bin\Debug\netcoreapp2.1\XmlLoader.runtimeconfig.dev.json
+F:\!!課業相關\!!!!!四上 軟體工程\!!Git\XML-analysis\XmlLoader\XmlLoader\bin\Debug\netcoreapp2.1\XmlLoader.dll
+F:\!!課業相關\!!!!!四上 軟體工程\!!Git\XML-analysis\XmlLoader\XmlLoader\bin\Debug\netcoreapp2.1\XmlLoader.pdb
+F:\!!課業相關\!!!!!四上 軟體工程\Homework\XML-analysis\XmlLoader\XmlLoader\bin\Debug\netcoreapp2.1\XmlLoader.deps.json
+F:\!!課業相關\!!!!!四上 軟體工程\Homework\XML-analysis\XmlLoader\XmlLoader\bin\Debug\netcoreapp2.1\XmlLoader.runtimeconfig.json
+F:\!!課業相關\!!!!!四上 軟體工程\Homework\XML-analysis\XmlLoader\XmlLoader\bin\Debug\netcoreapp2.1\XmlLoader.runtimeconfig.dev.json
+F:\!!課業相關\!!!!!四上 軟體工程\Homework\XML-analysis\XmlLoader\XmlLoader\bin\Debug\netcoreapp2.1\XmlLoader.dll
+F:\!!課業相關\!!!!!四上 軟體工程\Homework\XML-analysis\XmlLoader\XmlLoader\bin\Debug\netcoreapp2.1\XmlLoader.pdb
+F:\!!課業相關\!!!!!四上 軟體工程\Homework\XML-analysis\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.csprojAssemblyReference.cache
+F:\!!課業相關\!!!!!四上 軟體工程\Homework\XML-analysis\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.csproj.CoreCompileInputs.cache
+F:\!!課業相關\!!!!!四上 軟體工程\Homework\XML-analysis\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.AssemblyInfoInputs.cache
+F:\!!課業相關\!!!!!四上 軟體工程\Homework\XML-analysis\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.AssemblyInfo.cs
+F:\!!課業相關\!!!!!四上 軟體工程\Homework\XML-analysis\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.dll
+F:\!!課業相關\!!!!!四上 軟體工程\Homework\XML-analysis\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.pdb
+F:\!!課業相關\!!!!!四上 軟體工程\Homework\EFconnect\XmlLoader\XmlLoader\bin\Debug\netcoreapp2.1\XmlLoader.deps.json
+F:\!!課業相關\!!!!!四上 軟體工程\Homework\EFconnect\XmlLoader\XmlLoader\bin\Debug\netcoreapp2.1\XmlLoader.runtimeconfig.json
+F:\!!課業相關\!!!!!四上 軟體工程\Homework\EFconnect\XmlLoader\XmlLoader\bin\Debug\netcoreapp2.1\XmlLoader.runtimeconfig.dev.json
+F:\!!課業相關\!!!!!四上 軟體工程\Homework\EFconnect\XmlLoader\XmlLoader\bin\Debug\netcoreapp2.1\XmlLoader.dll
+F:\!!課業相關\!!!!!四上 軟體工程\Homework\EFconnect\XmlLoader\XmlLoader\bin\Debug\netcoreapp2.1\XmlLoader.pdb
+F:\!!課業相關\!!!!!四上 軟體工程\Homework\EFconnect\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.csprojAssemblyReference.cache
+F:\!!課業相關\!!!!!四上 軟體工程\Homework\EFconnect\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.csproj.CoreCompileInputs.cache
+F:\!!課業相關\!!!!!四上 軟體工程\Homework\EFconnect\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.AssemblyInfoInputs.cache
+F:\!!課業相關\!!!!!四上 軟體工程\Homework\EFconnect\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.AssemblyInfo.cs
+F:\!!課業相關\!!!!!四上 軟體工程\Homework\EFconnect\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.dll
+F:\!!課業相關\!!!!!四上 軟體工程\Homework\EFconnect\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.pdb
